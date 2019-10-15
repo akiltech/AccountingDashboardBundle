@@ -1,0 +1,12 @@
+/vendor/
+phpunit.xml
+.idea
+.vscode
+.DS_Store
+.tmp
+composer.lock
+.php_cs.cache
+.phpunit.result.cache
+.phpcs-cache
+.phpunit.result.cache
+.phpcs-cache
